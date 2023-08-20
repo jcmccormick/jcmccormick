@@ -7,3 +7,5 @@ As a novice developer, my foundational project was to design and implement an on
 While working on wc, I also came up with my own kind of coding assistant/importable ai tool, Wizard's Apprentice. It provides a small kit of functionality for collecting data on openai usage, prompt design, response validation, and other stuff. It can be run on the command line with npx, or be imported into Typescript projects.
 
 Demos of Awayto and Wizapp can be found on youtube https://www.youtube.com/@awayto5530.
+
+Awayto Verison 2 is currently up as a demo at https://awayto.store and there is no email validation, etc, so you can create a fake account and check it out.
